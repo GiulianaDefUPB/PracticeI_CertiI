@@ -1,0 +1,6 @@
+# The following files will be in a text format (by default CRLF-EOL)
+*.js text eol=crlf
+*.cs text eol=crlf
+*.css text=auto
+*.html text
+* tex
